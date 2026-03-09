@@ -8,7 +8,9 @@
     "splash": {
       "backgroundColor": "#0f1419"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.uno.mobile"
@@ -17,7 +19,9 @@
       "package": "com.uno.mobile"
     },
     "extra": {
-      "eas": {}
+      "eas": {
+        "projectId": "926cecb9-c820-42af-90f2-d0e2ef0d846f"
+      }
     }
   }
 }
