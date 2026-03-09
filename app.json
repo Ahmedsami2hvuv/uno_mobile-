@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "أونو",
+    "slug": "uno-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0f1419"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.uno.mobile"
+    },
+    "android": {
+      "package": "com.uno.mobile"
+    },
+    "extra": {
+      "eas": {}
+    }
+  }
+}
