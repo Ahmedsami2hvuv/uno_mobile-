@@ -5,7 +5,7 @@
 export default {
   // القائمة الرئيسية (مثل البوت)
   mainMenuTitle: '🎮 أهلاً بك\n\nاختر:',
-  btnPlayVsBot: '🤖 اللعب مع البوت',
+  btnPlayVsBot: '🤖 اللعب مع الذكاء الصناعي',
   btnRules: '📜 قوانين اللعب',
   btnCalc: '🧮 حاسبة أونو',
   btnHome: '🏠 الرئيسية',
