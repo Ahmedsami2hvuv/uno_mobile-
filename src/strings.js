@@ -27,7 +27,7 @@ export default {
   footerText: 'أونو — تطبيق موبايل من فكرة البوت',
 
   // اللعب
-  gameTitle: 'اللعب ضد البوت',
+  gameTitle: 'اللعب ضد الذكاء الصناعي',
   yourTurn: 'دورك',
   botTurn: 'دور البوت',
   chooseCardOrDraw: 'دورك — اختر ورقة أو اسحب.',
